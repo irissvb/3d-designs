@@ -1,15 +1,15 @@
-# 3D Models
+# 3D Designs
 
-Personal 3D models and printable designs.
+My 3D printed designs.
 
-## Models
+## Designs
 
 - [Olive keychain](olive-keychain/)
 - [Samsung Galaxy A31 case](samsung-galaxy-a31-case/)
 - [Trophy](trophy/)
 
-Each design has its own folder with the printable STL files and related media. Model photos, when available, are stored under each model's `media/` folder.
+Each design has its own folder with the printable STL files and related media. Model photos, when available, are stored under each design's `media/` folder.
 
 ## Repository status
 
-The current collection contains STL exports. Original CAD source files are not available for these designs.
+The current collection contains the STL files of each desing
