@@ -8,11 +8,22 @@ Custom phone case model for the Samsung Galaxy A31.
 
 ## Printed examples
 
-![Blue case back](media/phone-case-back-blue.jpg)
-![Blue case fitted to the phone](media/phone-case-back-fitted.jpg)
-![Case bottom ports](media/phone-case-bottom-ports.jpg)
-![Black case back](media/phone-case-back-black.jpg)
-![Black case interior](media/phone-case-interior-black.jpg)
-![Case interior](media/phone-case-interior.jpg)
+Blue case fitted to the phone.
+<img src="media/phone-case-back-fitted.jpg" alt="Blue case fitted to the phone" width="300">
 
-Additional photos are stored under `media/`.
+Back view of the blue printed case with two colors.
+<img src="media/phone-case-back-blue.jpg" alt="Blue case back" width="300">
+
+Back view of the black printed case.
+<img src="media/phone-case-back-black.jpg" alt="Black case back" width="300">
+
+Interior view showing the case shape and openings.
+<img src="media/phone-case-interior.jpg" alt="Case interior" width="300">
+
+Bottom view showing the phone ports.
+<img src="media/phone-case-bottom-ports.jpg" alt="Case bottom ports" width="300">
+
+Side buttons view of the black case.
+<img src="media/phone-case-interior-black.jpg" alt="Black case interior" width="300">
+
+Potos are stored under `media/`.

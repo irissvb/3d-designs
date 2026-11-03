@@ -2,7 +2,8 @@
 
 Small olive-shaped keychain designed for 3D printing.
 
-![Olive keychain preview](media/olive-keychain-preview.png)
+Rendered preview of the olive-shaped keychain.
+<img src="media/olive-keychain-preview.png" alt="Olive keychain preview" width="300">
 
 ## Files
 
@@ -10,8 +11,13 @@ Small olive-shaped keychain designed for 3D printing.
 
 ## Printed examples
 
-![Olive keychain with ring](media/olive-keychain-with-ring.jpg)
-![Olive keychain front view](media/olive-keychain-front.jpg)
-![Olive keychain side view](media/olive-keychain-side.jpg)
+Printed keychain with its metal ring attached:
+<img src="media/olive-keychain-with-ring.jpg" alt="Olive keychain with ring" width="300">
 
-Additional photos are stored under `media/`.
+Front view of the printed keychain:
+<img src="media/olive-keychain-front.jpg" alt="Olive keychain front view" width="300">
+
+Back view showing the keychain profile:
+<img src="media/olive-keychain-back.jpg" alt="Olive keychain back view" width="300">
+
+Photos are stored under `media/`.
